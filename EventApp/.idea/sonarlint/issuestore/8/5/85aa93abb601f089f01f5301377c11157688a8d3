@@ -1,0 +1,26 @@
+
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›8ºÏ¹¾þ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ8ø£Õ þ-
+Nsquid:S1481"-Remove this unused "userName" local variable.(ýÏÉ±üÿÿÿÿ8ºÏ¹¾þ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”“î€8ºÏ¹¾þ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(áïÅ‘ýÿÿÿÿ8ø£Õ þ-
+ksquid:S1192"JDefine a constant instead of duplicating this literal "127.0.0.1" 5 times.(ÃÜ«Çùÿÿÿÿ8ø£Õ þ-
+_squid:UselessImportCheck"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜8ºÏ¹¾þ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›î™Ó8ø£Õ þ-
+Hsquid:S1172",Remove this unused method parameter "event".(Éãöë8ø£Õ þ-
+Msquid:S1172"1Remove this unused method parameter "mouseEvent".(ìµ³æ8ºÏ¹¾þ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀÌ±Å8ø£Õ þ-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ö€²œøÿÿÿÿ8„òÌ þ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›î™Ó8ø£Õ þ-
+Hsquid:S1172",Remove this unused method parameter "event".(¿¸û…8ø£Õ þ-
+Fsquid:S00108")Either remove or fill this block of code.(Ãôþ•8ø£Õ þ-
+Hsquid:S1172",Remove this unused method parameter "event".(ô±†¦8ø£Õ þ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ8ø£Õ þ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ8ø£Õ þ-
+hsquid:S1192"GDefine a constant instead of duplicating this literal "Error " 3 times.(™ß”€ûÿÿÿÿ8ø£Õ þ-

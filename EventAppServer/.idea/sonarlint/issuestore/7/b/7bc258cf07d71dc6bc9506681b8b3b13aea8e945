@@ -1,0 +1,5 @@
+
+€squid:S1488M"]Immediately return this expression instead of assigning it to the temporary variable "users".(Ì´«¿ûÿÿÿÿ8¦·âûî-
+osquid:S1192"LDefine a constant instead of duplicating this literal "persistence" 5 times.(´Š¹Ìÿÿÿÿÿ8Þ¦†›ú-
+Asquid:S1148;"#Use a logger to log this exception.(Ç’Çê8É² ýî-
+‚squid:UselessImportCheck"RRemove this unused import 'org.eclipse.persistence.expressions.ExpressionBuilder'.(ê©êßÿÿÿÿÿ8ÜÂ÷üî-

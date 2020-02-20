@@ -1,0 +1,6 @@
+
+ˆsquid:S14887"eImmediately return this expression instead of assigning it to the temporary variable "notifications".(ò±ã”ÿÿÿÿÿ8ñâÊİî-
+jsquid:UselessImportCheck":Remove this unused import 'com.unitbv.entity.EventEntity'.(õš´¨ûÿÿÿÿ8Ö ¹ú-
+osquid:S1192"LDefine a constant instead of duplicating this literal "persistence" 3 times.(´Š¹Ìÿÿÿÿÿ8Èüİú-
+Asquid:S1148I"#Use a logger to log this exception.(Ç’Çê8Î¸´ú-
+Ysquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›8”‰¹ú-

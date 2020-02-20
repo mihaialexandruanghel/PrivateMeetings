@@ -1,0 +1,4 @@
+
+Msquid:S1444"3Make this "public static currentUserId" field final(òÚ ¹ùÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(Ï¸æÙ
+Š"squid:ClassVariableVisibilityCheck"YMake currentUserId a static final constant or non-public and provide accessors if needed.(òÚ ¹ùÿÿÿÿ

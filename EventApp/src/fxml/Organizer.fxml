@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="564.0" prefWidth="1101.0" style="-fx-background-color: #FFF;" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.OrganizerController">
+    <children>
+        <Pane prefHeight="575.0" prefWidth="429.0" style="-fx-background-color: #00FFFF;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+                <ImageView fitHeight="52.0" fitWidth="52.0" layoutX="75.0" layoutY="51.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../images/login.png" />
+                    </image>
+                </ImageView>
+                <Label alignment="CENTER" layoutX="140.0" layoutY="54.0" prefHeight="23.0" prefWidth="173.0" text="Private Meetings" textFill="BLACK">
+                    <font>
+                        <Font name="Segoe UI" size="18.0" />
+                    </font>
+                </Label>
+                <Label alignment="CENTER" layoutX="148.0" layoutY="77.0" prefHeight="23.0" prefWidth="114.0" text="Create meetings" textFill="BLACK">
+                    <font>
+                        <Font name="Segoe UI" size="12.0" />
+                    </font>
+                </Label>
+                <TextField fx:id="txtEventName" layoutX="75.0" layoutY="159.0" prefHeight="32.0" prefWidth="278.0" promptText="Event Name" />
+                <DatePicker fx:id="dateOfEvent" layoutX="75.0" layoutY="217.0" prefHeight="32.0" prefWidth="278.0" promptText="Event Date" />
+                <TextField fx:id="txtEventLocation" layoutX="75.0" layoutY="276.0" prefHeight="32.0" prefWidth="278.0" promptText="Event Location" />
+                <TextField fx:id="seatsNumber" layoutX="75.0" layoutY="335.0" prefHeight="32.0" prefWidth="278.0" promptText="Number of Seats" />
+                <Label fx:id="lblErrors" alignment="CENTER" layoutX="75.0" layoutY="394.0" prefHeight="23.0" prefWidth="275.0" textFill="#ff6354">
+                    <font>
+                        <Font name="Segoe UI" size="10.0" />
+                    </font>
+                </Label>
+                <Button fx:id="btnSave" layoutX="76.0" layoutY="449.0" mnemonicParsing="false" onMouseClicked="#saveButton" prefHeight="32.0" prefWidth="278.0" styleClass="button2" stylesheets="@../styling/fullpackstyling.css" text="Save" />
+            </children>
+        </Pane>
+        <TableView fx:id="tblData" layoutX="438.0" layoutY="114.0" prefHeight="445.0" prefWidth="651.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="438.0" AnchorPane.rightAnchor="12.0" AnchorPane.topAnchor="114.0">
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+            </columnResizePolicy>
+        </TableView>
+      <Button fx:id="eventButton" layoutX="438.0" layoutY="31.0" mnemonicParsing="false" onMouseClicked="#eventButton" prefHeight="25.0" prefWidth="215.0" text="Events" />
+      <Button fx:id="sendInvitationButton" layoutX="690.0" layoutY="31.0" mnemonicParsing="false" onMouseClicked="#sendInvitationButton" prefHeight="25.0" prefWidth="194.0" text="Send Invitations" />
+      <Button fx:id="logOutButton" layoutX="1016.0" layoutY="31.0" mnemonicParsing="false" onMouseClicked="#logOut" text="Log out" />
+      <Label fx:id="secondLblErrors" layoutX="438.0" layoutY="78.0" prefHeight="39.0" prefWidth="644.0" />
+    </children>
+</AnchorPane>

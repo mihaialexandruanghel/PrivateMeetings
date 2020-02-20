@@ -1,0 +1,10 @@
+
+usquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãôåıúÿÿÿÿ8ô”¬›ş-
+\squid:S4719:"9Replace charset name argument with StandardCharsets.UTF_8(ÓãîÖúÿÿÿÿ8ô”¬›ş-
+qsquid:S37761"SRefactor this method to reduce its Cognitive Complexity from 114 to the 15 allowed.(¾ÓÃî8ô”¬›ş-
+\
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(‹áÀÒùÿÿÿÿ8ìÚ¯ ş-
+qsquid:S2095ñ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(“ïÿÙıÿÿÿÿ8ô”¬›ş-
+Hsquid:S2140û")Use "java.util.Random.nextInt()" instead.(™†Ş…8ô”¬›ş-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(³ë…¨8ô”¬›ş-

@@ -1,0 +1,26 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”“î€8‘ÂÏ™ş-
+fsquid:S2147"ECombine this catch with the one at line 111, which has the same body.(åşŒóùÿÿÿÿ8èâÛ™û-
+fsquid:S1192"JDefine a constant instead of duplicating this literal "127.0.0.1" 4 times.(…å´Ô8³åûáü-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‘ÂÏ™ş-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›î™Ó8Û‡Ê¦ú-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ú²ïÏ8èâÛ™û-
+Msquid:S1172"1Remove this unused method parameter "mouseEvent".(ä¡ËÄ8³åûáü-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‘÷úøÿÿÿÿ8‘ÂÏ™ş-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(åÅç“8‘ÂÏ™ş-
+squid:S1845"nRename method "eventButton" to prevent any misunderstanding/clash with field "eventButton" defined on line 47.(Ñ¢€¼øÿÿÿÿ8Û‡Ê¦ú-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”“î€8‘ÂÏ™ş-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èâÛ™û-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀÌ±Å8èâÛ™û-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ8‘ÂÏ™ş-
+Rsquid:S1172"1Remove this unused method parameter "mouseEvent".(Ñ¢€¼øÿÿÿÿ8Û‡Ê¦ú-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ß”€ûÿÿÿÿ8èâÛ™û-
+Rsquid:S1172"1Remove this unused method parameter "rowClicked".(‘÷úøÿÿÿÿ8‘ÂÏ™ş-
+Psquid:S1066"/Merge this if statement with the enclosing one.(äÏâüşÿÿÿÿ8èâÛ™û-
+Csquid:S1604"(Make this anonymous inner class a lambda(ÑÇ¶8‘ÂÏ™ş-
+asquid:S2147"ECombine this catch with the one at line 307, which has the same body.(ä ¹€8‘ÂÏ™ş-

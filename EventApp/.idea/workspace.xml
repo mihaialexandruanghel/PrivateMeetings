@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c40f956-b41c-497f-9e8b-404a2a8c6dbc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TpQkDIj8bFTEgybxdgBa4wvala" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../master/TD/jars2/gson-2.8.2.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\facultate\EventApp\src\response" />
+      <recent name="C:\facultate\EventApp\src\requests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="response" />
+      <recent name="requests" />
+      <recent name="data" />
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\facultate\EventApp\src\fxml" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home.Main" />
+      <module name="EventApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c40f956-b41c-497f-9e8b-404a2a8c6dbc" name="Default Changelist" comment="" />
+      <created>1574154697809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574154697809</updated>
+      <workItem from="1574154699192" duration="148000" />
+      <workItem from="1574154872703" duration="1996000" />
+      <workItem from="1574157955279" duration="6461000" />
+      <workItem from="1574842767188" duration="626000" />
+      <workItem from="1575447378969" duration="1049000" />
+      <workItem from="1575535432550" duration="1205000" />
+      <workItem from="1575876508358" duration="612000" />
+      <workItem from="1575909775688" duration="2040000" />
+      <workItem from="1575960605200" duration="16671000" />
+      <workItem from="1575992453107" duration="2961000" />
+      <workItem from="1577028349975" duration="597000" />
+      <workItem from="1578901083717" duration="30216000" />
+      <workItem from="1578987127014" duration="23075000" />
+      <workItem from="1579246958356" duration="4172000" />
+      <workItem from="1579505630017" duration="3118000" />
+      <workItem from="1579591500060" duration="1339000" />
+      <workItem from="1579679663737" duration="5100000" />
+      <workItem from="1580064005805" duration="15751000" />
+      <workItem from="1580116796055" duration="20145000" />
+      <workItem from="1580142049569" duration="287000" />
+      <workItem from="1580903506334" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
